@@ -2,4 +2,10 @@
     <string name="app_name">Reto Carvajal</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sobre_nosotros">Sobre Nosotros</string>
+    <string name="txt_descripcion">Carvajal Tecnología y Servicios S.A.S. es una compañía multinacional,parte del holding Carvajal S.A, donde creamos sistemas de intercambio de información que logran conectar a los ciudadanos con el Estado y a las empresas con sus clientes y proveedores. Así,la eficiencia al reducir los costos de transacción en los ecosistemas empresariales y estatales.Contamos con presencia en nueve países: México, Guatemala, Panamá, República Dominicana, Colombia, Venezuela, Ecuador, Perú y Argentina</string>
+    <string name="txt_mision">Misión</string>
+    <string name="ser_el_aliado_estrat_gico_para_la_reinvenci_n_digital_y_operativa_de_nuestros_clientes_a_partir_de_modelos_de_negocio_innovadores_que_transformen_y_beneficien_a_la_sociedad">Ser el aliado estratégico para la reinvención digital y operativa de nuestros clientes, a partir de modelos de negocio innovadores que transformen y beneficien a la sociedad.</string>
+    <string name="proporcionar_a_la_sociedad_un_liderazgo_tecnol_gico_de_vanguardia_que_facilite_la_evoluci_n_al_mundo_digital_la_inclusi_n_social_y_la_sostenibilidad_del_medio_ambiente">Proporcionar a la sociedad un liderazgo tecnológico de vanguardia, que facilite la evolución al mundo digital, la inclusión social y la sostenibilidad del medio ambiente.</string>
+    <string name="siguenos_en_todas_nuestras_redes">Siguenos en todas nuestras redes!</string>
 </resources>
