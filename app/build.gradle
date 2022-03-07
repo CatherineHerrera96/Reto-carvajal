@@ -45,4 +45,8 @@ dependencies {
 
     //Añadimos la dependencia de RecyclerView
     api 'androidx.recyclerview:recyclerview:1.1.0'
+
+    //dependencias para menu inferior
+    implementation "androidx.fragment:fragment-ktx:1.2.5"
+    implementation 'com.google.android.material:material:1.2.1'
 }

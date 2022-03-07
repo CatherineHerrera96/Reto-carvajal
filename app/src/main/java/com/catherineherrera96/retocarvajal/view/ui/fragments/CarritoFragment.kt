@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import com.catherineherrera96.retocarvajal.R
 
-class HomeFragment : Fragment(R.layout.fragment_home) {
-
+class CarritoFragment : Fragment(R.layout.fragment_carrito) {
 
 }
