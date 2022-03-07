@@ -12,15 +12,16 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical">
 
 
             <ImageView
                 android:id="@+id/imageView3"
-                android:layout_width="410dp"
+                android:layout_width="390dp"
                 android:layout_height="120dp"
-                android:src="@drawable/logoynombre" />
+                android:src="@drawable/logoynombre"
+                android:layout_gravity="center_horizontal"/>
 
             <TextView
                 android:id="@+id/txt_sobrenosotros"
@@ -45,10 +46,11 @@
                 android:gravity="center"/>
             <ImageView
                 android:id="@+id/edificio"
-                android:layout_width="410dp"
+                android:layout_width="390dp"
                 android:layout_marginTop="20dp"
                 android:layout_height="220dp"
-                android:src="@drawable/edificio" />
+                android:src="@drawable/edificio"
+                android:layout_gravity="center_horizontal"/>
             <TextView
                 android:id="@+id/txt_mision"
                 android:layout_width="wrap_content"
@@ -105,7 +107,7 @@
                 android:layout_height="50dp"
                 android:src="@drawable/twitter"
                 android:background="@color/secondaryColor"
-                android:layout_marginHorizontal="250dp"
+                android:layout_marginHorizontal="200dp"
                 android:layout_marginTop="20dp"
                 android:scaleType="fitStart"/>
             <ImageButton
@@ -115,16 +117,27 @@
                 android:src="@drawable/insta"
                 android:background="@color/secondaryTextColor"
                 android:layout_marginTop="-50dp"
-                android:layout_marginHorizontal="120dp"
+                android:layout_marginHorizontal="100dp"
                 android:scaleType="fitStart"
                 />
 
             <ImageView
                 android:id="@+id/imageView4"
                 android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/logo"
-                android:layout_marginTop="20dp"/>
+                android:text="creado por: CatherineHerrera"
+                android:textSize="12dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:textStyle="italic"
+                android:textColor="@color/primaryTextColor" />
+
 
 
         </LinearLayout>
